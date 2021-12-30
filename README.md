@@ -19,7 +19,21 @@ Commands, tips, suggestions and more...
      </td>
     <td>
          <ul>
-             <p><a href="https://github.com/gil-son/java/tree/main/8/Lambda"></p>:mag:</li>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
+ 
+  <tr align="center">
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git init</a></td>
+     <td>
+         <ul>
+             <p>This command is used to create a new GIT repository</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
          </ul>
      </td>
  </tr>
