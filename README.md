@@ -37,6 +37,21 @@ Commands, tips, suggestions and more...
          </ul>
      </td>
  </tr>
+ 
+ <tr align="center">
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git add</a></td>
+     <td>
+         <ul>
+             <p>The git add command can be used to add files to the index. For example, the following command will add a file called temp.txt present in the local directory to the index</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
+ 
 </table>
 
 ## Advanced Commands
