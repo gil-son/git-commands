@@ -52,6 +52,25 @@ Commands, tips, suggestions and more...
      </td>
  </tr>
  
+ 
+ <tr align="center">
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git clone</a></td>
+     <td>
+         <ul>
+             <p>The git clone command is used for repository verification purposes. If the repository is on a remote server, use</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
 </table>
 
 ## Advanced Commands
