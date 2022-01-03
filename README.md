@@ -67,7 +67,19 @@ Commands, tips, suggestions and more...
      </td>
  </tr>
  
- 
+ <tr align="center">
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git status</a></td>
+     <td>
+         <ul>
+             <p>The git status command displays the list of changed files along with files that have not yet been added or committed. Use</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
  
  
  
