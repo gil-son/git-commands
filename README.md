@@ -2,6 +2,8 @@
 Commands, tips, suggestions and more...
 
 
+<div align="center"><img width="250" src="https://cdn.thedesigninspiration.com/wp-content/uploads/2014/02/Cat-Illustrations-040.jpg"/></div>
+
 
 ##  Frequent commands
 
