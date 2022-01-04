@@ -2,6 +2,7 @@
 Commands, tips, suggestions and more...
 
 
+
 ##  Frequent commands
 
 <table>
@@ -81,7 +82,20 @@ Commands, tips, suggestions and more...
      </td>
  </tr>
  
- 
+ <tr align="center">
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git push</a></td>
+     <td>
+         <ul>
+             <p>git push is another of the most used basic git commands. A simple commit sends the changes made to the master branch of the remote repository associated with the working directory. For example:
+git push origin master</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
  
 </table>
 
@@ -93,6 +107,12 @@ Return a branch after commit:
 ```
 git checkout HEAD~1
 ```
+
+
+
+## Examples - Frequent commands
+
+
 
 
 ## Tips
