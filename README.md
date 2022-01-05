@@ -99,6 +99,19 @@ git push origin master</p>
      </td>
  </tr>
  
+ <tr align="center">
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git commit</a></td>
+     <td>
+         <ul>
+             <p>The git commit command is used to commit the changes in the head. Note that any changes you make will not go to the remote repository</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
 </table>
 
 ## Advanced Commands
