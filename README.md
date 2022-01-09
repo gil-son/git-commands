@@ -71,6 +71,22 @@ Commands, tips, suggestions and more...
  </tr>
  
  <tr align="center">
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git commit</a></td>
+     <td>
+         <ul>
+             <p>The git commit command is used to commit the changes in the head. Note that any changes you make will not go to the remote repository</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
+ 
+ 
+ 
+ <tr align="center">
      <td><a href="https://github.com/gil-son/java/tree/main/8">git status</a></td>
      <td>
          <ul>
@@ -99,11 +115,13 @@ git push origin master</p>
      </td>
  </tr>
  
+ 
+ 
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git commit</a></td>
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git checkout</a></td>
      <td>
          <ul>
-             <p>The git commit command is used to commit the changes in the head. Note that any changes you make will not go to the remote repository</p>
+             <p>To simply switch from one branch to another</p>
          </ul>
      </td>
     <td>
@@ -114,10 +132,10 @@ git push origin master</p>
  </tr>
  
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git status</a></td>
+     <td><a href="https://github.com/gil-son/java/tree/main/8">git remote</a></td>
      <td>
          <ul>
-             <p>The git status command displays the list of changed files along with files that have not yet been added or committed</p>
+             <p>The git remote command allows a user to connect to a remote repository. The following command lists the currently configured remote repositories</p>
          </ul>
      </td>
     <td>
