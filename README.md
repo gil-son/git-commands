@@ -14,7 +14,7 @@ Commands, tips, suggestions and more...
      <th>Example</th>
  </tr>
   <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git config</a></td>
+     <td><a href="">git config</a></td>
      <td>
          <ul>
              <p>One of the most used git commands is git config which can be used to set user-specific configuration values like email, preferred algorithm for diff, username and file format etc. For example, the following command can be used to set the email</p>
@@ -28,7 +28,7 @@ Commands, tips, suggestions and more...
  </tr>
  
   <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git init</a></td>
+     <td><a href="">git init</a></td>
      <td>
          <ul>
              <p>This command is used to create a new GIT repository</p>
@@ -42,7 +42,7 @@ Commands, tips, suggestions and more...
  </tr>
  
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git add</a></td>
+     <td><a href="">git add</a></td>
      <td>
          <ul>
              <p>The git add command can be used to add files to the index. For example, the following command will add a file called temp.txt present in the local directory to the index</p>
@@ -57,7 +57,7 @@ Commands, tips, suggestions and more...
  
  
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git clone</a></td>
+     <td><a href="">git clone</a></td>
      <td>
          <ul>
              <p>The git clone command is used for repository verification purposes. If the repository is on a remote server, use</p>
@@ -71,7 +71,7 @@ Commands, tips, suggestions and more...
  </tr>
  
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git commit</a></td>
+     <td><a href="">git commit</a></td>
      <td>
          <ul>
              <p>The git commit command is used to commit the changes in the head. Note that any changes you make will not go to the remote repository</p>
@@ -87,7 +87,7 @@ Commands, tips, suggestions and more...
  
  
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git status</a></td>
+     <td><a href="">git status</a></td>
      <td>
          <ul>
              <p>The git status command displays the list of changed files along with files that have not yet been added or committed. Use</p>
@@ -101,7 +101,7 @@ Commands, tips, suggestions and more...
  </tr>
  
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git push</a></td>
+     <td><a href="">git push</a></td>
      <td>
          <ul>
              <p>git push is another of the most used basic git commands. A simple commit sends the changes made to the master branch of the remote repository associated with the working directory. For example:
@@ -118,7 +118,7 @@ git push origin master</p>
  
  
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git checkout</a></td>
+     <td><a href="">git checkout</a></td>
      <td>
          <ul>
              <p>To simply switch from one branch to another</p>
@@ -132,10 +132,24 @@ git push origin master</p>
  </tr>
  
  <tr align="center">
-     <td><a href="https://github.com/gil-son/java/tree/main/8">git remote</a></td>
+     <td><a href="">git remote</a></td>
      <td>
          <ul>
              <p>The git remote command allows a user to connect to a remote repository. The following command lists the currently configured remote repositories</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
+ 
+ <tr align="center">
+     <td><a href="">git branch</a></td>
+     <td>
+         <ul>
+             <p>The git branch command can be used to list, create or delete branches. To list all branches present in the repository</p>
          </ul>
      </td>
     <td>
