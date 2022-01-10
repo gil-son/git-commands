@@ -158,6 +158,19 @@ git push origin master</p>
          </ul>
      </td>
  </tr>
+  <tr align="center">
+     <td><a href="">git diff</a></td>
+     <td>
+         <ul>
+             <p>The git diff command is used to show changes made that have not yet been committed</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
 </table>
 
 ## Advanced Commands
