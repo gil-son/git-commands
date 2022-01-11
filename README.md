@@ -171,6 +171,32 @@ git push origin master</p>
          </ul>
      </td>
  </tr>
+ <tr align="center">
+     <td><a href="">git log</a></td>
+     <td>
+         <ul>
+             <p>The git log command shows the history of commits from the repository</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
+ <tr align="center">
+     <td><a href="">git log -p</a></td>
+     <td>
+         <ul>
+             <p>The git log -p command shows the history of changes made to each commit</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
 </table>
 
 ## Advanced Commands
