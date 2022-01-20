@@ -210,6 +210,19 @@ git push origin master</p>
          </ul>
      </td>
  </tr>
+ <tr align="center">
+     <td><a href="">git rm</a></td>
+     <td>
+         <ul>
+             <p>git rm can be used to remove files from the index and working directory. Use:</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
 </table>
 
 ## Advanced Commands
